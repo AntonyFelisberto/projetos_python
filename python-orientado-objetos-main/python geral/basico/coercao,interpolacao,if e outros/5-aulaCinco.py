@@ -1,0 +1,7 @@
+#BOOLEAN SÃO DADOS True OU False NO PYTHON SÃO DESCRITOS COMO bool
+true = True     #NO PYTHON True SE INICIA COM MAIUSCULO
+false = False   #NO PYTHON False SE INICIA COM MAIUSCULO
+
+#OPERADOR LÓGICO
+print(10 == 10)
+print(type(10 == 10))

@@ -1,0 +1,23 @@
+"""
+COMENTAR EM VARIAS LINGUAS É USANDOS 3 ASPAS DUPLAS,
+SÓ QUE NÃO É UM COMENTARIO E SIM CHAMADO DE DOCSTRING
+ESSA PARTE O INTERPRETADOR DIFERENTE DO # LE
+
+"""
+'''
+DA PRA USAR UMA UNICA ASPAS 3 VEZES
+ISSO TAMBEM É CONSIDERADO UMA DOCSTRING
+'''
+#PARA COMENTAR EM UMA LINHA É USADO O HASHTAG
+
+print("HELLO WORLD!")
+print("EXIBINDO NA TELA") #COMENTANDO NA FRENTE
+print(12345)
+nome="Python"
+empresa='FIAP'
+qtde_funcionarios=100
+mediaMensalidade=1050.5
+
+total = qtde_funcionarios + mediaMensalidade
+
+print (total + qtde_funcionarios + nome)
